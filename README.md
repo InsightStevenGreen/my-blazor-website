@@ -1,3 +1,17 @@
+# Instructions
+
+## Build
+
+dotnet build
+
+## Run
+
+dotnet
+
+## Tutorial
+
+https://www.youtube.com/watch?v=RBVIclt4sOo
+
 # My Blazor Website
 
 This is a Blazor web application project that demonstrates the use of Blazor components and routing.
@@ -7,11 +21,12 @@ This is a Blazor web application project that demonstrates the use of Blazor com
 - **Pages**: Contains the main pages of the application.
   - `Index.razor`: The main landing page of the application.
   - `_Host.cshtml`: The host page that sets up the HTML structure.
-  
 - **Shared**: Contains shared components.
+
   - `MainLayout.razor`: The main layout component for consistent page structure.
 
 - **wwwroot**: Contains static files.
+
   - **css**: Contains stylesheets.
     - `site.css`: CSS styles for the application.
   - **js**: Contains JavaScript files.
